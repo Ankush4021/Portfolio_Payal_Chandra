@@ -2508,12 +2508,16 @@ footer .wrap {
 
 @media(max-width:560px) {
 
+    .nav-actions{
+        display: flex;
+        gap: 12px;
+    }
+
     .wrap {
 
         padding: 0 18px;
 
     }
-
 
 
     section {

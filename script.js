@@ -277,18 +277,20 @@ const P = [
 
 const S = [
   [
-    "Video editing",
-    "Reels, vlogs, podcasts, news packages and films with sharp cuts, colour and sound.",
+    "Video Editing & Post-Production",
+    "Multi-cam editing, colour grading, sound design, and motion graphics for corporate films, short films, documentaries, and social media — end-to-end post-production.",
   ],
   [
-    "Graphic design",
-    "Posters, pamphlets, social content and thumbnails that stop the scroll.",
+    "Brand & Graphic Design",
+    "Logos, posters, pamphlets, thumbnails, and brand identity systems built with intent and designed to leave a lasting impression across digital and print.",
   ],
-  ["Brand identity", "Logos and marks that make a brand easy to recognise."],
-  ["Motion graphics", "Logo reveals, lower-thirds and animated typography."],
   [
-    "Storytelling",
-    "Concepts and narrative direction so every piece says one clear thing.",
+    "Motion Graphics & Animation",
+    "Animated intros, AI-assisted logo animations, GIF creation, and kinetic typography adding energy and personality to brands through motion design.",
+  ],
+  [
+    "Visual Storytelling & Scripting",
+    "Script-to-screen support: storyboarding, scriptwriting, and editing narratives backed by a journalism background for authentic depth and clarity.",
   ],
 ];
 
@@ -454,7 +456,7 @@ if (has) {
 // ===== TOOLS MARQUEE =====
 
 $("#mq").innerHTML =
-  "<span>Photoshop</span><span>Premiere Pro</span><span>Illustrator</span><span>After Effects</span><span>Figma</span><span>Canva</span>".repeat(
+  "<span>Photoshop</span><span>Premiere Pro</span><span>Illustrator</span><span>After Effects</span><span>Figma</span><span>UI/UX Design</span><span>Canva</span>".repeat(
     2,
   );
 
